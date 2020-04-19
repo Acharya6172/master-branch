@@ -1,0 +1,10 @@
+#!/bin/bash
+
+count=11
+echo
+if [ $count == 11 ]
+then
+echo "count is 11"
+else
+echo "count is not 11"
+fi
